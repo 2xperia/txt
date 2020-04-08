@@ -1,10 +1,9 @@
 {
   "name": "txt",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "grunt lint",
-    "build": "grunt build"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
